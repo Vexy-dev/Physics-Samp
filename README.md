@@ -50,3 +50,4 @@ public PHY_OnObjectCollideWithPlayer(objectid, playerid);
 
 [uPeppe](https://github.com/uPeppe/physics.inc) original project.<br>
 [zeelorenc](https://github.com/zeelorenc/Object-Physics) for editing the original project (But it's outdated).
+[blueN](https://github.com/devbluen/Physics-Samp/) Repost to github/community.
